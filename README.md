@@ -1,6 +1,12 @@
 # Hi Nice to see you 👋
-  还未踏入社会的一名学生..   
-  orz
+  
+  I am LuoRenMu , it is shorted as LoMu
+  
+  Come from JiangSu  
+  
+  I like IT 
+##Now
+  Nite
 <!--
 **LuoRenMu/LuoRenMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
