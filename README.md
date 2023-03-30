@@ -4,7 +4,6 @@
   
   Come from JiangSu  
   
-  I like IT 
   
   
 ## Now
