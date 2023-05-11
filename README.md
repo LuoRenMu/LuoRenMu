@@ -2,8 +2,9 @@
 
   无业游民(学生)   
   包吃包住一千也干！
-  
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
+ ## 本人真实写照
+  ![](https://luorenmu.cn/upload/20230512011924.jpg)
   
   
   
