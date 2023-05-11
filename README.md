@@ -4,7 +4,7 @@
   包吃包住一千也干！    
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
  ## 本人真实写照
-  ![](https://luorenmu.cn/upload/20230512011924.jpg)
+  <img decoding="async" src="https://luorenmu.cn/upload/20230512011924.jpg" width="50%" heigth="50%">
   
   
   
