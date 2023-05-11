@@ -10,7 +10,8 @@
   无业游民(学生)   
   包吃包住一千也干！
   
-  ![](https://count.getloli.com/get/@LuoRenMu.github.readme)
+  ![](https://luorenmu.cn/upload/20230512011530.jpg)
+  
   
 <!--
 **LuoRenMu/LuoRenMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
