@@ -1,16 +1,11 @@
 # Hi Nice to see you 👋
-  
-  I am LuoRenMu , it is shorted as LoMu
-  
-  Come from JiangSu  
-  
-  
-  
-## Now
+
   无业游民(学生)   
   包吃包住一千也干！
   
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
+  
+  
   
   
 <!--
