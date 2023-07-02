@@ -1,6 +1,5 @@
 # Hi Nice to see you 👋
-
-  无业游民(学生)   
+  在职电子厂 (886烙铁补锡)  
   包吃包住一千也干！    
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
  ## 本人真实写照
