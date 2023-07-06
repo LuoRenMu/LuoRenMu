@@ -1,5 +1,6 @@
 # Hi Nice to see you 👋
   在职电子厂 (886烙铁补锡)  
+  只会点皮毛o(╥﹏╥)o   
   包吃包住一千也干！    
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
  ## 本人真实写照
