@@ -1,7 +1,8 @@
 # Hi Nice to see you 👋
   在职电子厂 (886烙铁补锡)  
-  后端只会点CRUD皮毛*o(╥﹏╥)o  老fw了
-  大一在校生
+  后端只会点CRUD皮毛*o(╥﹏╥)o    
+  老fw了   
+  目前正在学习前端及模拟电路    
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
  ## 本人真实写照
   <img decoding="async" src="https://luorenmu.cn/upload/20230512011924.jpg" width="50%" heigth="50%">
