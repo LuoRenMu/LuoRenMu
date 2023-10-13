@@ -2,8 +2,8 @@
   在职电子厂 (886烙铁补锡)  
   后端只会点CRUD皮毛*o(╥﹏╥)o    
   老fw了   
-  目前正在培训班备战高考  成绩很差 o(╥﹏╥)o 
-  进入大学再努力学习自己感兴趣的!
+  目前正在培训班备战高考  成绩很差 o(╥﹏╥)o     
+  进入大学再努力学习自己感兴趣的!    
   ![](https://luorenmu.cn/upload/20230512011530.jpg)
  ## 本人真实写照
   <img decoding="async" src="https://luorenmu.cn/upload/20230512011924.jpg" width="50%" heigth="50%">
