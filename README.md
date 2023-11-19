@@ -1,10 +1,15 @@
 # Hi Nice to see you 👋
-  后端只会点CRUD皮毛*o(╥﹏╥)o    
   老fw了   
   目前正在私立学校备战高考  成绩很差 o(╥﹏╥)o     
   进入大学再努力学习自己感兴趣的!    
-  ![](https://luorenmu.cn/upload/20230512011530.jpg)
- ## 本人真实写照
+
+## 熟悉的语言
+1. Java (主力语言)
+2. Python
+3. JavaScript
+
+
+ ### 本人真实写照
   <img decoding="async" src="https://luorenmu.cn/upload/20230512011924.jpg" width="50%" heigth="50%">
   
   
