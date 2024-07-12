@@ -7,7 +7,14 @@
 
 
                                    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)    
+
+## Language
+- Java
+- Kotlin
+- Python
+- C++
+- JavaScript
   
   
 <!--
