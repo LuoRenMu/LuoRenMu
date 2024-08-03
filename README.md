@@ -15,7 +15,12 @@
 - Python
 - C++
 - JavaScript
-  
+
+### ¿
+- 有好多想做的事 -> 学习前端、嵌入式、逆向? (兴趣使然)
+- 目前是准大一(2024年8月4日)
+- API调用大师!
+- 使用的IDE -> JETBRAINS全家桶 (能用JETBRAINS 尽量用JETBRAINS ^ ^)
   
 <!--
 **LuoRenMu/LuoRenMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
