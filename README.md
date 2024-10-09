@@ -9,7 +9,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)    
 
 ## 会什么?
-Java | Kotlin | Python | C++ | JavaScript     
+Java | Kotlin | Python | C++    
 
 ## XXXXXXX
 目前是准大一(2024年8月4日)        
