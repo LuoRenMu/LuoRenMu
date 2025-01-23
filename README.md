@@ -3,22 +3,28 @@
 
 
 
-
-我的Github仓库常用语音         
                                    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)    
 
-## 会什么?
-Java | Kotlin | Python | C++    
+## use language
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+</div>  
 
-## XXXXXXX
-目前是准大一(2024年8月4日)        
+
+### future learn
+<div align="center">
+ <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
+</div>
 
 
-### ¿
-- 有好多想做的事 -> 深入学习前端、嵌入式、逆向? 、机器学习(兴趣使然)
-- API调用大师!
-- 使用的IDE -> JETBRAINS全家桶 (能用JETBRAINS 尽量用JETBRAINS ^ ^)
   
 
 
