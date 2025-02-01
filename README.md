@@ -1,4 +1,9 @@
 # Hi    
+**LuoRenMu** And **LoMu**
+为了使称呼发生撞名的尴尬情况我想到了一个奇特的名称即 **罗任姆**    
+但在很多情况下都叫我罗姆?螺母 所以我便将别名设为LoMu
+
+--- 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)      
 
 
