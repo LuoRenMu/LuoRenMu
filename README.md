@@ -16,7 +16,7 @@
 
 
 <div align="center">
-	<img  src="./doc/imgs/47A5781FEB99502354F4A6F041EB1ADB.png" />
+	<img  src="./doc/imgs/gcode.png" />
 </div>  
 
 
