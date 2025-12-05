@@ -1,25 +1,10 @@
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)      
-
-
-
+<div align="center">
+		<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LuoRenMu&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top" title="Top"/>
+</div>  
                                    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorenmu)](https://github.com/anuraghazra/github-readme-stats)    
-
-## use language
-<div align="center">
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-</div>  
-
-
-<div align="center">
-	<img  src="./doc/imgs/gcode.png" />
-</div>  
-
-
+## about me
+ idiot
 
 
   
